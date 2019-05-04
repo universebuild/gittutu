@@ -11,3 +11,5 @@ Every branch is just a pointer to a commit.
 Every tag is just a pointer to a commit.
 
 Ich bin hier
+
+I am awesome
