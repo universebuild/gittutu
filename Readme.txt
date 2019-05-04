@@ -10,6 +10,4 @@ Every branch is just a pointer to a commit.
 
 Every tag is just a pointer to a commit.
 
-Ich bin hier
-
-I am awesome
+Every repository is the same. There is no master repository by git design.
